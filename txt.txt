@@ -1,0 +1,16 @@
+FormBorderStyle: none (mất khung xung quanh)
+BunifuElipse: Radius bo góc 
+BunifuCheckBox: nhấn tick và hủy tick
+BunifuDatapicker: Setup ngày
+BunifuRating: xếp hạng *
+bunifuImageButton: hiển thị ảnh cho nút button
+bunifuMaterialTextBox: gạch dưới chữ
+bunifuOSSwitch: công tắt của ios
+bunifuMetroTextbox: di chuột đến viền sẽ đậm hơn ở khung text box
+bunifuRange: Điều chỉnh phạm vi
+bunifuSeparator: vẽ ngăn cách
+bunifuSlider: thanh rượt
+bunifuSwitch: công tắt on/off
+bunifuTextbox: khung text có icon search
+bunifuTrackbar: thanh kéo ngang 
+bunifuVTrackbar: thanh kéo đứng
